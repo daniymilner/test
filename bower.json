@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "0.2.3",
+  "homepage": "https://github.com/daniymilner/test",
+  "authors": [
+    "Aleksey Olenyuk <alo@qapint.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
